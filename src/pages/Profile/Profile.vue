@@ -115,6 +115,7 @@ export default {
 <style lang='stylus' ref="stylesheet/stylus">
   @import '../../common/stylus/mixins.styl'
   .profile //我的
+    overflow hidden
     width 100%
     .profile-number
       margin-top 45.5px
