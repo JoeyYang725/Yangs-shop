@@ -1,21 +1,6 @@
-# gshop
+# Yang's hop
 
-> A Vue.js project
+重新开发外卖APP，到目前为止来看这个决定是对的，虽然看起来只是重复了一次，但是会有很多新的体会和发现。每天的进度和感想会写进readme中，就当作是个笔记。
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<p align="right">（2021.5.20 8:00，第一次提交）</p>
+***
